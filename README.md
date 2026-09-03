@@ -69,18 +69,27 @@ O projeto foi desenvolvido com finalidade acadêmica, colocando em prática conc
 ## Saídas esperadas
 
 ```text
+
+Bolsa 100%:
+===========================================================
 Curso: Engenharia de Computação
 Nota final: 8.7
 Renda per capita: 600
 Resultado da bolsa: DEFERIDO - BOLSA INTEGRAL (100%)!
 PARABENS, João Silva, estamos felizes em ter voce conosco!
+===========================================================
 
+Bolsa 50%:
+===========================================================
 Curso: Administração
 Nota final: 6.5
 Renda per capita: 1200
 Resultado da bolsa: DEFERIDO - MEIA-BOLSA (50%)!
 PARABENS, Maria Souza, estamos felizes em ter voce conosco!
+===========================================================
 
+Indeferimento: 
+===========================================================
 Curso: Direito
 Nota final: 4.6
 Renda per capita: 2500
@@ -90,6 +99,7 @@ Motivos do indeferimento:
 - Nota final abaixo do limite permitido.
 - Numero de familiares com bolsa acima do limite permitido.
 - Para aluno sem deficiencia e que estudou em escola particular, a nota minima deve ser 7.5.
+===========================================================
 
 ```
 Autor: Marlon Vritzl
