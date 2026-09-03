@@ -68,8 +68,6 @@ O projeto foi desenvolvido com finalidade acadêmica, colocando em prática conc
 
 ## Saídas esperadas
 
-### Bolsa 100%
-
 ```text
 Curso: Engenharia de Computação
 Nota final: 8.7
