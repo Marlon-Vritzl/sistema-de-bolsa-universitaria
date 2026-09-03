@@ -66,8 +66,6 @@ O projeto foi desenvolvido com finalidade acadêmica, colocando em prática conc
 
 # Saídas esperadas:
 
-## Saídas esperadas
-
 ```text
 
 Bolsa 100%:
